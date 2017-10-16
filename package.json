@@ -1,0 +1,10 @@
+{
+  "name": "vpv-shopify-starter-theme",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@shopify/slate-tools": "0.12.1"
+  },
+  "dependencies": {
+    "bourbon": "^4.3.4"
+  }
+}
